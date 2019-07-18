@@ -19,13 +19,13 @@ This project is a first approach to answer these questions. We study the coffee 
 - An exploratory data analysis inspecting distribution of polarity and subjectivity, **pearson coefficient** between patterns applying **bootstrapping**, testing the *law of primacy in persuasion*, comparative analysis of **cumulative distributions** of customer reviews and blogs and measurement of periods between reviews and how we can determine the positive or negative impact in the frequency of next reviews. Details about this section can be found in [`Documents/Exploratory_Data_Analysis.pdf`](./Documents/3_Exploratory_Data_Analysis.pdf)
 
 5. Milestone Report
-- This [`Milestone Report`](./Documents/4_Milestone_Report) compiles all the previous results describing the problem statement, description of the dataset and initial findings from exploratory analysis.
+- This [`Milestone Report`](./Documents/4_Milestone_Report.pdf) compiles all the previous results describing the problem statement, description of the dataset and initial findings from exploratory analysis.
 
 6. Machine Learning
 - In this section we build the definitive dictionary to build feature vectors of similarity and polarity and we use them to train supervised (**XGBoost**, **Random Forest** and **Gradient Boosting**) and unsupervided models (**k-Means**, **Hierarchical Clustering** and **PCA**). Details on [`Documents/Machine_Learning_Report.pdf`](./Documents/5_Machine_Learning_Report.pdf)
 
 7. Presentation and Final Report
-- The [`Final report`](./Documents/6_Final_report) compiles the complete project, including the most relevant results (collection, wrangling, EDA) and in-depth analysis using machine learning. Additionally, you can see a summarization in the [`Presentation`](./Documents/7_Presentation) slides deck.
+- The [`Final report`](./Documents/6_Final_report.pdf) compiles the complete project, including the most relevant results (collection, wrangling, EDA) and in-depth analysis using machine learning. Additionally, you can see a summarization in the [`Presentation`](./Documents/7_Presentation.pdf) slides deck.
 
 
 ## Getting Started
