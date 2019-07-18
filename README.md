@@ -28,9 +28,9 @@ These instructions will get you a copy of the project up and running on your loc
 - [Download Anaconda](https://www.anaconda.com/distribution/).
 - Run Anaconda Navigator and launch a jupyter notebook and open the experience-coffee-searcher folder. 
 - Using Anaconda Navigator, you can install the following packages:
-  -request
-  -nltk
-  -textblob
-  -py-xgboost
+  - request
+  - nltk
+  - textblob
+  - py-xgboost
 
 Other libraries applied in this project (numpy, scipy, matplotlib, pandas, seaborn, sklearn, re) do not require installation (default packages in anaconda). They only need to be imported in the notebooks.
