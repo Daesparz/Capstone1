@@ -1,4 +1,5 @@
-# Coffee Shops in San Francisco: looking for meaningful, unconventional and unique experiences
+# Coffee Shops in San Francisco: 
+## Looking for meaningful, unconventional and unique experiences
 
 The average coffee drinker in U.S. consumes **3.1 cups of coffee daily** and there are about **100 million of coffee drinkers** in the U.S. Every day customers are asking more quality and put more attention in details. How we can use the information of reviews that people leave about coffee shops to know what they are talking about? Could we analyze coffee blogs to understand what people is looking for in *their experiences*?
 
@@ -27,9 +28,9 @@ These instructions will get you a copy of the project up and running on your loc
 - [Download Anaconda](https://www.anaconda.com/distribution/).
 - Run Anaconda Navigator and launch a jupyter notebook and open the experience-coffee-searcher folder. 
 - Using Anaconda Navigator, you can install the following packages:
-	-request
-	-nltk
-	-textblob
-	-py-xgboost
+  -request
+  -nltk
+  -textblob
+  -py-xgboost
 
 Other libraries applied in this project (numpy, scipy, matplotlib, pandas, seaborn, sklearn, re) do not require installation (default packages in anaconda). They only need to be imported in the notebooks.
