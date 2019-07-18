@@ -25,7 +25,7 @@ This project is a first approach to answer these questions. We study the coffee 
 - In this section we build the definitive dictionary to build feature vectors of similarity and polarity and we use them to train supervised (**XGBoost**, **Random Forest** and **Gradient Boosting**) and unsupervided models (**k-Means**, **Hierarchical Clustering** and **PCA**). Details on [`Documents/Machine_Learning_Report.pdf`](./Documents/5_Machine_Learning_Report.pdf)
 
 7. Presentation and Final Report
-- The [`Final report`](./Documents/6_Final_report.pdf) compiles the complete project, including the most relevant results (collection, wrangling, EDA) and in-depth analysis using machine learning. Additionally, you can see a summarization in the [`Presentation`](./Documents/7_Presentation.pdf) slides deck.
+- The [`Final report`](./Documents/6_Final_Report.pdf) compiles the complete project, including the most relevant results (collection, wrangling, EDA) and in-depth analysis using machine learning. Additionally, you can see a summarization in the [`Presentation`](./Documents/7_Presentation.pdf) slides deck.
 
 
 ## Getting Started
