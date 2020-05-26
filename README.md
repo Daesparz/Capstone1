@@ -1,9 +1,9 @@
 # Coffee Shops in San Francisco: 
 ## Looking for meaningful, unconventional and unique experiences
 
-The average coffee drinker in U.S. consumes **3.1 cups of coffee daily** and there are about **100 million of coffee drinkers** in the U.S. Every day customers are asking more quality and put more attention in details. How we can use the information of reviews that people leave about coffee shops to know what they are talking about? Could we analyze coffee blogs to understand what people is looking for in *their experiences*?
+The average coffee drinker in the U.S. consumes **3.1 cups of coffee daily** and there are about **100 million of coffee drinkers** in the U.S. Customers are asking more quality and put more attention in details every day. How we can use the information of reviews that people leave about coffee shops to know what they are talking about? Could we analyze coffee blogs to understand what people are looking for in *their experiences*?
 
-This project is a first approach to answer these questions. We study the coffee shops in *San Francisco*, an interesting city with at least 150 years of coffee history, where a lot of specialty coffee shops are emerging every year.
+This project is the first approach to answer these questions. We study the coffee shops in *San Francisco*, an interesting city with at least 150 years of coffee history, where a lot of specialty coffee shops are emerging every year.
 
 ## Contents:
 1. Proposal 
